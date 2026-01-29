@@ -46,16 +46,9 @@ Segmentación de clientes y análisis de campañas de marketing.
 
 🧠 Certificaciones
 
-🎓 Google Data Analytics Professional Certificate – Coursera
-[Ver certificado](https://www.coursera.org/professional‑certificates/analise‑de‑datos‑do‑google)
-
-🐍 SQL Bootcamp: Go from Zero to Hero – Udemy (curso que entrega certificado al completar)
-[Ver certificado](https://www.udemy.com/course/the‑complete‑sql‑bootcamp/?utm_source=chatgpt.com)
-
-🗄 SQL and Relational Databases 101 – IBM Developer Skills Network (sitio del curso, luego se puede compartir certificado desde plataforma)
-[Ver certificado](https://courses.cognitiveclass.ai/certificates/f43900640b0047d889b0ebf2f078f7c2)
-
-💻 Introducción a Power BI – Fundación YPF (curso + certificado verificable en campus virtual)
-[Ver certificado](https://lab.fundacionypf.org/certificados/validar/185346197585143775461197281778748427363676976419/)
+- Google Data Analytics Professional Certificate – Coursera - [Ver certificado](https://www.coursera.org/professional‑certificates/analise‑de‑datos‑do‑google)
+- SQL Bootcamp: Go from Zero to Hero – Udemy - [Ver certificado](https://www.udemy.com/course/the‑complete‑sql‑bootcamp/?utm_source=chatgpt.com)
+- SQL and Relational Databases 101 – IBM Developer Skills Network - [Ver certificado](https://courses.cognitiveclass.ai/certificates/f43900640b0047d889b0ebf2f078f7c2)
+- Introducción a Power BI – Fundación YPF - [Ver certificado](https://lab.fundacionypf.org/certificados/validar/185346197585143775461197281778748427363676976419/)
 
 ¡Gracias por visitar mi portfolio! 🚀

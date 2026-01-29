@@ -34,7 +34,7 @@ Análisis exploratorio de las 1000 películas top de IMDb: ratings, ingresos y g
 
 ### 3. [Customer Personality Analysis (SQL)](https://github.com/aburtom709-source/customer-personality-sql)  
 Segmentación de clientes y análisis de campañas de marketing.  
-**Herramientas:** SQL (SQLite/PostgreSQL)  
+**Herramientas:** SQL (SQLite)  
 **Insights clave:**  
 - Identificación de clientes de alto valor  
 - Segmentación por ingresos y gasto  

@@ -44,9 +44,18 @@ Segmentación de clientes y análisis de campañas de marketing.
 
 ## 🧠 Certificaciones
 
-- ![Coursera](https://img.shields.io/badge/Coursera-Google%20Data%20Analytics-blue) [Ver certificado](https://www.credly.com/go/XLyNetoW)
-- ![Udemy](https://img.shields.io/badge/Udemy-SQL%20Bootcamp-orange) [Ver certificado](https://www.udemy.com/certificate/UC-6ffcd849-4df0-4e28-b0b8-1572d2cb6576/)
-- ![IBM](https://img.shields.io/badge/IBM-SQL%20and%20Relational%20Databases-blueviolet) [Ver certificado](https://courses.cognitiveclass.ai/certificates/f43900640b0047d889b0ebf2f078f7c2)
-- ![Fundación YPF](https://img.shields.io/badge/Fundaci%C3%B3n%20YPF-Power%20BI-red) [Ver certificado](https://lab.fundacionypf.org/certificados/validar/185346197585143775461197281778748427363676976419)
+🧠 Certificaciones
+
+🎓 Google Data Analytics Professional Certificate – Coursera
+[Ver certificado](https://www.coursera.org/professional‑certificates/analise‑de‑datos‑do‑google)
+
+🐍 SQL Bootcamp: Go from Zero to Hero – Udemy (curso que entrega certificado al completar)
+[Ver certificado](https://www.udemy.com/course/the‑complete‑sql‑bootcamp/?utm_source=chatgpt.com)
+
+🗄 SQL and Relational Databases 101 – IBM Developer Skills Network (sitio del curso, luego se puede compartir certificado desde plataforma)
+[Ver certificado](https://courses.cognitiveclass.ai/certificates/f43900640b0047d889b0ebf2f078f7c2)
+
+💻 Introducción a Power BI – Fundación YPF (curso + certificado verificable en campus virtual)
+[Ver certificado](https://lab.fundacionypf.org/certificados/validar/185346197585143775461197281778748427363676976419/)
 
 ¡Gracias por visitar mi portfolio! 🚀

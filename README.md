@@ -44,8 +44,8 @@ Segmentación de clientes y análisis de campañas de marketing.
 
 ## 🧠 Certificaciones
 
-- Google Data Analytics Professional Certificate – Coursera - [Ver certificado](https://www.coursera.org/professional‑certificates/analise‑de‑datos‑do‑google)
-- SQL Bootcamp: Go from Zero to Hero – Udemy - [Ver certificado](https://www.udemy.com/course/the‑complete‑sql‑bootcamp/?utm_source=chatgpt.com)
+- Google Data Analytics Professional Certificate – Coursera - [Ver certificado](https://www.credly.com/badges/3f3b5d39-dced-498a-b185-2116cd7499a9/public_url)
+- SQL Bootcamp: Go from Zero to Hero – Udemy - [Ver certificado](https://www.udemy.com/certificate/UC-6ffcd849-4df0-4e28-b0b8-1572d2cb6576/)
 - SQL and Relational Databases 101 – IBM Developer Skills Network - [Ver certificado](https://courses.cognitiveclass.ai/certificates/f43900640b0047d889b0ebf2f078f7c2)
 - Introducción a Power BI – Fundación YPF - [Ver certificado](https://lab.fundacionypf.org/certificados/validar/185346197585143775461197281778748427363676976419/)
 
